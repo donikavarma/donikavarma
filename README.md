@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donikavarma
 - 👀 I’m interested in doing experiments with code
-- 📫 You can reach me through mail : donikavarma839@gmail.com
+- 📫 You can reach me through mail : donikapenmethsa@gmail.com
 
 <!---
 donikavarma/donikavarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
